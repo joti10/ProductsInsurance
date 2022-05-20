@@ -1,0 +1,7 @@
+2022-05-17 22:47:46.7874 Info Message Template Auto Format enabled
+2022-05-17 22:47:47.0491 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-17 22:47:49.7037 Info Adding target FileTarget(Name=alldata)
+2022-05-17 22:47:50.1286 Info Adding target FileTarget(Name=otherFile-web)
+2022-05-17 22:47:51.1710 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\HP\Documents\Visual Studio 2022\Projects\WebShop\interview\src\Insurance.Api\bin\Debug\net6.0\nlog.config
+2022-05-17 22:48:25.1378 Info AppDomain Shutting down. LogFactory closing...
+2022-05-17 22:48:27.0161 Info LogFactory has been closed.
